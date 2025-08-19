@@ -49,6 +49,8 @@ A Lightning Web Component (LWC) that seamlessly integrates Tableau dashboards in
 3. **Add to Lightning Pages**:
    - Use Lightning App Builder to add the component to record pages, app pages, or home pages
    - Configure component properties as needed
+   - **Pre-built App Page**: A "Tableau Preview" Lightning App Page is included for quick setup
+   - **Custom Tab**: Navigate to the "Tableau Preview" tab to access the dashboard component
 
 ## Usage
 
